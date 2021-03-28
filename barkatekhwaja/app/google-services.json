@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335519806276",
+    "project_id": "barkatekhwaja-c5454",
+    "storage_bucket": "barkatekhwaja-c5454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335519806276:android:61599df4df10a204d15d11",
+        "android_client_info": {
+          "package_name": "com.selfion.barkatekhwaja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335519806276-juc7vgcs2v9lm5lq7g7akovuhii2v9f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuDAyLPpj1yH6ri3CuQFl4IifMhQZKNAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335519806276-juc7vgcs2v9lm5lq7g7akovuhii2v9f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
