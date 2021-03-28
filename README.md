@@ -1,2 +1,0 @@
-# Barkatekhwaja
-# Barkatekhwaja
